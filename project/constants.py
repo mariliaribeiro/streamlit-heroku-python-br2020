@@ -1,1 +1,1 @@
-FILE = 'mcdonalds_nutrition_facts.csv'
+FILE = 'https://raw.githubusercontent.com/mariliaribeiro/streamlit-heroku-python-br2020/master/datasets/mcdonalds_nutrition_facts.csv'
