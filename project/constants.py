@@ -1,0 +1,1 @@
+FILE = '../datasets/mcdonalds_nutrition_facts.csv'
