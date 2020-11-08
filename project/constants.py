@@ -1,1 +1,1 @@
-FILE = '../datasets/mcdonalds_nutrition_facts.csv'
+FILE = 'mcdonalds_nutrition_facts.csv'
